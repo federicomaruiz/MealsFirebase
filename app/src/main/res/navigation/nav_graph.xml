@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navgraph"
+    app:startDestination="@id/weekFragment">
+
+    <fragment
+        android:id="@+id/weekFragment"
+        android:name="com.utad.mymenu.ui.WeekFragment"
+        android:label="fragment_week"
+        tools:layout="@layout/fragment_week" >
+        <action
+            android:id="@+id/action_weekFragment_to_createMealFragment"
+            app:destination="@id/createMealFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createMealFragment"
+        android:name="com.utad.mymenu.ui.CreateMealFragment"
+        android:label="fragment_create_meal"
+        tools:layout="@layout/fragment_create_meal" />
+</navigation>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "434031019410",
+    "firebase_url": "https://my-menu-dcd23-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-menu-dcd23",
+    "storage_bucket": "my-menu-dcd23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434031019410:android:ad6b677959134eee236d4b",
+        "android_client_info": {
+          "package_name": "com.utad.mymenu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEW7sxmejBQWlTlza31yK9sgNAnj9zc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

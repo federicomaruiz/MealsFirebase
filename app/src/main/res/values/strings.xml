@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_meal">Crear comida</string>
+    <string name="hint_day_name">Día</string>
+    <string name="hint_name_meal">Nombre de la comida</string>
+    <string name="button_create_meal_text">Guardar comida</string>
+</resources>
